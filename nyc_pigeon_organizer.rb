@@ -11,5 +11,3 @@ def nyc_pigeon_organizer(data) # I have no clue how this works.
    end
    pigeon_list
 end
-
-DONE
